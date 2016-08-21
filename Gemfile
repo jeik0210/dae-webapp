@@ -16,10 +16,16 @@ gem 'coffee-rails', '~> 4.2'
 gem 'faker'
 gem 'bootstrap-sass'
 gem 'will_paginate-bootstrap'
+gem 'will_paginate', '~> 3.1.0'
+gem 'cancan'
+gem 'axlsx'
+gem 'pdfkit'
+gem 'active_model_serializers', github: 'rails-api/active_model_serializers'
+#gem 'rails-api'
+#gem 'rack-cors', :require => 'rack/cors'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
-
-# Use jquery as the JavaScript library
+# Use jquery as the JavaScript library calvin y rihana
 gem 'jquery-rails'
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks
 gem 'turbolinks', '~> 5'
