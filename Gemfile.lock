@@ -204,6 +204,7 @@ PLATFORMS
 
 DEPENDENCIES
   active_model_serializers!
+  autoprefixer-rails
   axlsx
   bootstrap-sass
   byebug
